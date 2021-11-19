@@ -2,13 +2,13 @@
 Here we can hendle support tickets raised from the community
 
 This Doc aims at describing the procedure that is followed when dealing with Community issues.
-It starts from a user interacting with a telegram support bot, and ends into a ticket into a support repository for the engineering teams.
+It starts from a user interacting with a telegram support bot, and sends into a ticket into a support repository for the engineering teams.
 
 # Telegram Bot
 
-- User triggers the bot by typing /support in the Community Telegram group
-- Bot creates a private chat with the user
+- User triggers the ticketsystem by typing /github_issue in a private chat with @sifbutler_bot 
 - Bot asks user which category the issue belongs to
+- Bot asks for a title for the issue
 - Bot asks user to describe the issue by following [the template](https://github.com/lufa23/mytests/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
 - Bot thanks the user and send issue to triage
 
