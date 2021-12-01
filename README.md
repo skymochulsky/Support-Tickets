@@ -17,7 +17,7 @@ It starts from a user interacting with a telegram support bot, and sends into a 
 - CMs / Support try to replicate the issue
 - CMs in the Private Support Group can accept or declines the issue
 - The bot notifies the user if the issue has been approved or declined
-- If approved, the issue will be created in this Support-Tickets repo
+- If approved, the issue will be created in this Support-Tickets repo with a **Level 1 Support** Label
 - If CMs cannot successfully handle the issue, they tag DevRel on the issue and add the **Level 2 Support** label
 - If DevRel cannot successfully handle the issue they tag the relevant engineering team lead and add the **Level 3 Support** label
 
