@@ -24,7 +24,10 @@ It starts from a user interacting with a telegram support bot, and sends into a 
 
 # Closing the issue
 
-- When issue is closed, the bot will notify the user. If needed CMs can handle communication with the affected user
+- When issue is closed, the bot will notify the user. 
+- If needed CMs can handle communication with the affected user
+- When DevRels has resolved a ticket, they reassign the ticket to the CM and instruct them to contact the user.
+- The CM can then close the ticket.
 
 
 More info on the process can be found out [here](https://www.notion.so/Support-Guidelines-055f42e061764de29202fdd8f2972934)
