@@ -17,17 +17,17 @@ assignees: ''
 3. Scroll down to '....'
 4. See error "...">
 
-## Expected behavior
+Expected behavior
 <Please write here a clear and detailed description of what you expected to happen>
 
-## Screenshots
+Screenshots
 <Please attach here any screenshots to help explain your problem>
 
-## Browser
+Browser
 <Please write here the browser you are using>
 
 
-## VPN 
+VPN 
 <Please specify here if you are using a VPN>
 
 Keep in mind that providing as much detail as possible will help engineers to solve the case faster..
