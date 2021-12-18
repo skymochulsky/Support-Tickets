@@ -1,6 +1,6 @@
 ---
 name: User Interface Issue
-about: Please describe the issue you are facing
+about: Please describe the UI issue you are facing
 title: ''
 labels: ''
 assignees: ''
