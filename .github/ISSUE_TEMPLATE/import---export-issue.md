@@ -1,8 +1,8 @@
 ---
 name: Import / Export issue
 about: Report Import / Export issues
-title: ''
-labels: ''
+title: Import / Export issue
+labels: Level 1 Support (CMs Team)
 assignees: ''
 
 ---
