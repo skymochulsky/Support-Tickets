@@ -6,24 +6,25 @@ labels: ''
 assignees: ''
 
 ---
-
-# Describe the bug
+# User Interface Issue
+## Describe the bug
 <Please write here a clear and detailed description of what the bug is>
 
-**To Reproduce**
+# To Reproduce
+
 <Please write here the steps to reproduce the behavior, for example:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error "...">
 
-**Expected behavior**
+# Expected behavior
 <Please write here a clear and detailed description of what you expected to happen>
 
-**Screenshots**
+## Screenshots
 <Please attach here any screenshots to help explain your problem>
 
-**Browser**
+## Browser
 <Please write here the browser you are using>
 
 
