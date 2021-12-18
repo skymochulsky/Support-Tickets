@@ -20,7 +20,7 @@ assignees: ''
 <Please write here details on the claim transactions (amount, pairs and date) and the links to those transactions.>.
 
 **Sif address**
-<Please write here your sif address>.
+-Please write here your sif address-.
 
 **Expected Reward amount / Received amount**
 <Please write here details on the rewards amounts you were expecting.>.
