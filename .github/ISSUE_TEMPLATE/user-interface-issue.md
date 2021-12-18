@@ -8,31 +8,28 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+<Please write here a clear and detailed description of what the bug is>
 
 **To Reproduce**
-Steps to reproduce the behavior:
+<Please write here the steps to reproduce the behavior, for example:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
+4. See error "...">
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+<Please write here a clear and detailed description of what you expected to happen>
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+<Please attach here any screenshots to help explain your problem>
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Browser**
+<Please write here the browser you are using>
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+**VPN**
+<Please specify here if you are using a VPN>
+
+Keep in mind that providing as much detail as possible will help engineers to solve the case faster..
+
+Thanks!
