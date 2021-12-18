@@ -44,7 +44,7 @@ Please provide links to your addresses (both of Sifchain and external chain)
 
 
 
-## Screenshots
+## Screenshots
 If applicable, add screenshots to help explain your problem.
 
 
