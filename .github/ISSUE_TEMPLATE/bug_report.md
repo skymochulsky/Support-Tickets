@@ -24,8 +24,7 @@ Steps to reproduce the behavior:
 
 
 **Expected behavior**
-
-A clear and detailed description of what you expected to happen.
+<Please write a clear and detailed description of what you expected to happen.>
 
 
 
@@ -49,3 +48,9 @@ Please provide links to transaction hashes of the import / export issues you are
 **Screenshots**
 
 If applicable, add screenshots to help explain your problem.
+
+
+
+**Providing as much detail as possible will help engineers to solve the case faster..**
+
+Thanks!
