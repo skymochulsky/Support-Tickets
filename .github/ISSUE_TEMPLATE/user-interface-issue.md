@@ -30,6 +30,8 @@ Please write here the browser you are using
 ## VPN 
 Please specify here if you are using a VPN
 
-Keep in mind that providing as much detail as possible will help engineers to solve the case faster..
+
+
+**Keep in mind that providing as much detail as possible will help engineers to solve the case faster..**
 
 Thanks!
