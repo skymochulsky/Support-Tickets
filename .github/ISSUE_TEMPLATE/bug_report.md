@@ -29,13 +29,13 @@ Steps to reproduce the behavior:
 
 
 
-**TX Hashes**
+**TX Hashes** (if applicable)
 
 Please provide links to transaction hashes of the import / export issues you are facing
 
 
 
-**Link addresses**
+**Addresses** (if applicable
 <Please provide links to your addresses (both of Sifchain and external chain)>
 
 
