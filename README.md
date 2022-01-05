@@ -1,33 +1,16 @@
-# Support-Tickets
-Here we can hendle support tickets raised from the community
+# How to submit a ticket:
 
-This Doc aims at describing the procedure that is followed when dealing with Community issues.
-It starts from a user interacting with a telegram support bot, and sends into a ticket into a support repository for the engineering teams.
+- Click on “Issues”.
+- Open a ticket by clicking on “New Issue”.
+- Select the most appropriate template: 
+Liquidity Mining / Rewards
+Import / Export
+User Interface
+Various
+- Add a title, edit the template to add all the relevant information to your case. This will allow the engineers to efficiently solve your issue.
+- Submit the issue.
+- Relax, and monitor the issue for updates :D
 
-# Telegram Bot
-
-- User triggers the ticketsystem by typing /github_issue in a private chat with @sifbutler_bot 
-- Bot asks user which category the issue belongs to
-- Bot asks for a title for the issue
-- Bot asks user to describe the issue by following the correspondent template (which can be found in this Support-Tickets repo)
-- Bot thanks the user and send issue to the Sifchain Github Tickets telegram group
-
-# Github Tickets telegram group
-
-- CMs / Support try to replicate the issue
-- CMs in the Private Support Group can accept or declines the issue
-- The bot notifies the user if the issue has been approved or declined
-- If approved, the issue will be created in this Support-Tickets repo with a **Level 1 Support** Label
-- If CMs cannot successfully handle the issue, they tag DevRel on the issue and add the **Level 2 Support** label
-- If DevRel cannot successfully handle the issue they tag the relevant engineering team lead and add the **Level 3 Support** label
+If you have any doubt, here you can find the [Tutorial video](Tutorial video )
 
 
-# Closing the issue
-
-- When issue is closed, the bot will notify the user. 
-- If needed CMs can handle communication with the affected user
-- When DevRels has resolved a ticket, they reassign the ticket to the CM and instruct them to contact the user.
-- The CM can then close the ticket.
-
-
-More info on the process can be found out [here](https://www.notion.so/Support-Guidelines-055f42e061764de29202fdd8f2972934)
