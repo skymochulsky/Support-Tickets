@@ -8,7 +8,7 @@
 - User Interface
 - Other
 
-4)Add a title, edit the template to add all the relevant information to your case. This will allow the engineers to efficiently solve your issue.
+4) Add a title, edit the template to add all the relevant information to your case. This will allow the engineers to efficiently solve your issue.
 
 5) Submit the issue.
 
